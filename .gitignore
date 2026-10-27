@@ -1,0 +1,13 @@
+# Compiled kernel module and object files
+*.ko
+*.o
+*.mod.c
+*.mod
+*.mod.o
+*.symvers
+*.cmd
+
+# Temporary build files and directories
+.tmp_versions/
+modules.order
+Module.symvers
